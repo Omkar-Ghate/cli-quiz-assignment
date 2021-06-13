@@ -6,4 +6,4 @@
 3. One Point will be deducted if the Answer is Wrong.
 4. In MCQ based questions you have to type the Serial Number / Index Value.
 
-    [Here's a link](https://replit.com/@OmkarGhate/cli-quiz-neogCamp?embed=1output=1#index.js "Quiz App Link")
+    [Here's a link](https://replit.com/@OmkarGhate/cli-quiz-neog?embed=1output=1#index.js "Quiz App Link")
