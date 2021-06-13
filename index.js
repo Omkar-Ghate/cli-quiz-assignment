@@ -136,3 +136,5 @@ console.log('\n');
 console.log(chalk.cyanBright.italic.underline('Congratulations,', username, 'your Total Score is: ', score));
 console.log('\n');
 console.log(chalk.yellowBright.italic('Thanks for Solving the Quiz,if you have beaten the score that is on the leaderboard than Please take the Screenshot of the Score and Send it to Omkar.'));
+consolee.log(chalk.cyanBright.italic.underline("LinkedIn : https://www.linkedin.com/in/omkarghate/"));
+console.log(chalk.cyanBright.italic.underline("Github : https://github.com/Omkar-Ghate"))
