@@ -1,5 +1,7 @@
 # neoGcamp CLI quiz project 
 
+## This is a CLI Quiz app which contains questions on General Knowledge.
+
 ### RULES:
 1. There are 10 Questions and all are Compulsory.
 2. You will get 2 points on each Right Answer.
